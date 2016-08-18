@@ -1,0 +1,17 @@
+{
+    "name": "miama-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Linus Romer"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/miama-bower.git"
+    },
+    "description": "Miama font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
